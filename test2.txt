@@ -1,0 +1,10 @@
+# 
+# test2
+# 
+0.1  # delta_t pour l’approximation de fonctionnement du robot
+8  # rayon du bâtiment
+2  # nombre total d’obstacles
+4. 2.  0.
+6. 1.9 3.14
+0  # nombre total de particules de saleté
+# fin
